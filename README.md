@@ -1,5 +1,9 @@
 # 📈 Stock Market Prediction using Machine Learning
 
+## 🚀 Live Demo
+
+[Open the Live TCS Stock Market Prediction Dashboard](https://stock-market-prediction-tcs-qpqphenedjxztej7t4iegx.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project focuses on predicting the next-day closing price of Tata Consultancy Services (TCS) using Machine Learning.
